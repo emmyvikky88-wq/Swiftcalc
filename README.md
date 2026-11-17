@@ -1,2 +1,2 @@
-# Fish legs
+# Swiftcalc 
 My Advanced Scientific Calculator App
